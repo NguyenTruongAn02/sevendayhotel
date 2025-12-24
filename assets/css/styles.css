@@ -1,0 +1,7 @@
+/* assets/css/styles.css */
+body { font-family: Arial, sans-serif; }
+.sticky-top { position: sticky; top: 0; z-index: 1000; }
+/* Custom styles for responsiveness */
+@media (max-width: 768px) {
+    .navbar-nav { text-align: center; }
+}
